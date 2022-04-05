@@ -1,4 +1,4 @@
-# my-test
+# Project to test GitHub Actions
 
 ![Coverage](.github/badges/jacoco.svg)
 
