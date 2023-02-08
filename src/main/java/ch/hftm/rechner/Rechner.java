@@ -21,4 +21,8 @@ public class Rechner {
 		return a / b;
 	}
 
+	public double untgetesteteOperation(double a) {
+		return a;
+	}
+
 }
