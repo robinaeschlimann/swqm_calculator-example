@@ -22,9 +22,7 @@ public class CalculatorTest {
 	@Test
 	public void addDoubles() {
 		double result = calculator.add(-5.24, 4.1);
-//		Assertions.assertEquals(-1.14, result, 0.001);
-		Assertions.assertEquals(-2, result, 0.001);
-
+		Assertions.assertEquals(-1.14, result, 0.001);
 	}
 
 	@Test
